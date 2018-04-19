@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Angular</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Angular" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Path-11" fill="#E74C3C" points="0 170.660004 128 768 512 1024 896 768 1025.03106 170.660004 512 0"></polygon>
+        <polygon id="Path-12" fill="#C0392B" points="512 1024 512 0 1025.7721 170.660004 896 768"></polygon>
+        <path d="M389.3,497.4 L634.9,497.4 L512.5,199.8 L389.3,497.4 Z M305.3,699 L238.1,699 L484.5,132.6 L540.5,132.6 L786.9,699 L719.7,699 L657.3,550.2 L513.208052,550.2 L367.7,550.2 L305.3,699 Z" id="A" fill="#FFFFFF"></path>
+        <polygon id="Path-13" fill="#ECECEC" points="512 132.601929 540.500122 132.601929 786.892456 698.992432 719.746582 698.992432 657.301025 550.205933 512 550.205933 512 497.40387 634.934326 497.469727 512.508331 199.824982"></polygon>
+    </g>
+</svg>

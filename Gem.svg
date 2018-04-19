@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Gem</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Gem" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Path-4" fill="#FA7E7E" points="0 256 512 1024 1024 256 768 0 256 0"></polygon>
+        <polygon id="Path-5" fill="#F75C4C" points="0 256 512 1024 341.329987 256"></polygon>
+        <polygon id="Path-6" fill="#E74C3C" points="512 1024 341.329987 256 682.659973 256"></polygon>
+        <polygon id="Path-7" fill="#C0392B" points="512 1024 1024 256 682.659973 256"></polygon>
+        <polygon id="Path-8" fill="#C0392B" points="341.329987 256 426.670013 0 597.340027 0 682.659973 256"></polygon>
+        <polygon id="Path-9" fill="#E74C3C" points="0 256 256 0 426.670013 0 341.329987 256"></polygon>
+        <polygon id="Path-10" fill="#E74C3C" points="597.340027 0 682.659973 256 1024 256 768 0"></polygon>
+    </g>
+</svg>

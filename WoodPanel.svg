@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>WoodPanel</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="WoodPanel" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-7" fill="#3E2723" x="0" y="0" width="512" height="256"></rect>
+        <rect id="Rectangle-7" fill="#3E2723" x="512" y="512" width="512" height="256"></rect>
+        <rect id="Rectangle-7" fill="#6D4C41" x="-256" y="768" width="512" height="256"></rect>
+        <rect id="Rectangle-7" fill="#6D4C41" x="768" y="768" width="512" height="256"></rect>
+        <rect id="Rectangle-7" fill="#6D4C41" x="768" y="256" width="512" height="256"></rect>
+        <rect id="Rectangle-7" fill="#6D4C41" x="-256" y="256" width="512" height="256"></rect>
+        <rect id="Rectangle-7" fill="#4E342E" x="512" y="0" width="512" height="128"></rect>
+        <rect id="Rectangle-7" fill="#4E342E" x="256" y="256" width="512" height="256"></rect>
+        <rect id="Rectangle-7" fill="#8D6E63" x="512" y="0" width="512" height="256"></rect>
+        <rect id="Rectangle-7" fill="#8D6E63" x="768" y="128" width="512" height="128"></rect>
+        <rect id="Rectangle-7" fill="#8D6E63" x="-256" y="640" width="512" height="128"></rect>
+        <rect id="Rectangle-7" fill="#8D6E63" x="256" y="768" width="512" height="256"></rect>
+        <rect id="Rectangle-7" fill="#BCAAA4" x="0" y="512" width="512" height="256"></rect>
+    </g>
+</svg>

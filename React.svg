@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024px" height="1024px" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>React</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="React" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-2" fill="#0077C0" cx="512" cy="512" r="100"></circle>
+        <ellipse id="Oval-4" stroke="#0077C0" stroke-width="40" cx="512" cy="512" rx="492" ry="256"></ellipse>
+        <ellipse id="Oval-4" stroke="#0077C0" stroke-width="40" transform="translate(512.000000, 512.000000) rotate(60.000000) translate(-512.000000, -512.000000) " cx="512" cy="512" rx="492" ry="256"></ellipse>
+        <ellipse id="Oval-4" stroke="#0077C0" stroke-width="40" transform="translate(528.915872, 528.915872) rotate(-60.000000) translate(-528.915872, -528.915872) " cx="528.915872" cy="528.915872" rx="492" ry="256"></ellipse>
+    </g>
+</svg>
