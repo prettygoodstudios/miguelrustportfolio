@@ -177,6 +177,9 @@ mySurroundings.animateIcons = function(){
           mySurroundings.icons[key].reset = true;
           mySurroundings.icons[key].frames = 0;
         }
+        if(mySurroundings.icons[key].frames > 700){
+          mySurroundings.icons[key].frames = 700;
+        }
         var smallIconSize = Math.pow(Math.E,mySurroundings.icons[key].frames-Math.E*2)/(Math.pow(Math.E,mySurroundings.icons[key].frames-Math.E*2)+1)*mySurroundings.iconSize;
         myReality.drawImage(mySurroundings.icons[key].image,myWorld.width-mySurroundings.iconSize*1.5*(i+1),mySurroundings.iconSize*0.5,smallIconSize,smallIconSize);
       }else{
@@ -235,17 +238,22 @@ mySurroundings.iconCollisions = function(){
             case 0:
               mySurroundings.icons.gem.show = false;
               mySurroundings.icons.gem.animate = true;
+              console.log(mySurroundings.icons);
               mySurroundings.checkGameStatus();
               break;
             case 1:
               mySurroundings.icons.react.show = false;
               mySurroundings.icons.react.animate = true;
+              console.log(mySurroundings.icons);
               mySurroundings.checkGameStatus();
               break;
             case 2:
               mySurroundings.icons.angular.show = false;
               mySurroundings.icons.angular.animate = true;
+              console.log(mySurroundings.icons);
               mySurroundings.checkGameStatus();
+              break;
+            default:
               break;
           }
         }
@@ -310,9 +318,10 @@ mySurroundings.render = function(){
     mySurroundings.renderIntro(false);
   }
   me.render();
-  mySurroundings.animateIcons();
   if(mySurroundings.mode == "gameOver"){
     mySurroundings.congratulations();
+  }else{
+    mySurroundings.animateIcons();
   }
   mySurroundings.iconCollisions();
 }
@@ -320,7 +329,7 @@ setInterval(mySurroundings.render,1000/me.fps);
 
 addEventListener("keydown",function(e){
   console.log(e);
-  mySurroundings.mode = "introAnimation";
+  if(mySurroundings.mode == "intro") mySurroundings.mode = "introAnimation";
   if(e.key == "d" || e.key == "D" || e.key == "ArrowRight"){
     controller.direction = "right";
     controller.right = true;
